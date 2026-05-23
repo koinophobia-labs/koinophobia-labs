@@ -1,16 +1,22 @@
-## Hi there 👋
+# Blake Taylor | Koinophobia Labs
 
-<!--
-**koinophobia-labs/koinophobia-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building AI-assisted tools for community operations, content strategy, fitness workflows, and digital productivity.
 
-Here are some ideas to get you started:
+Koinophobia Labs is my personal build space for turning repeatable problems into organized systems, including creator workflows, AI-assisted dashboards, project trackers, and community-focused tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- AI-assisted workflow systems
+- Community operations and digital engagement tools
+- Fitness and content planning systems
+- Personal productivity dashboards
+- Career and project organization tools
+
+## Featured Project
+
+### Koi Cave
+An AI-assisted command center for organizing content, projects, productivity, and digital workflows.
+
+## What I'm Building Toward
+
+I'm focused on roles and projects that combine digital operations, community strategy, customer experience, content systems, and AI-enhanced productivity.
