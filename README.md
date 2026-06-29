@@ -20,4 +20,4 @@ An AI-assisted command center for organizing content, projects, productivity, an
 ## What I'm Building Toward
 
 I'm focused on roles and projects that combine digital operations, community strategy, customer experience, content systems, and AI-enhanced productivity.
-https://koinophobia-labs.vercel.app
+https://koinophobialabs.com
